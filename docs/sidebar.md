@@ -1,0 +1,6 @@
+- [Home](/)
+- [Rules](rules.md)
+- [Media](media.md)
+- [Events](events.md)
+- [Plugins](plugins.md)
+- [Servers](servers.md)
