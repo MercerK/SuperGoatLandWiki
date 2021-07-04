@@ -66,15 +66,7 @@ Provides a bunch of helper capabilities.
 Lands is a powerful claim plugin that provides a ton of customization, allowing users to claim large areas and define
 subareas, all with unique roles and rules.
 
-### More Info
-
-- **Wiki**: https://github.com/Angeschossen/Lands/wiki
-- **Plugin**:
-  https://www.spigotmc.org/resources/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-16-support.53313/
-
-/land claim to claim chunk /land unclaim to unclaim chunk /land selection to select area. /land menu to open up menu to
-see all claims. You can click on an option to further edit it. /land map to see chunks claimed around you. /land trust
-or /lands untrust to provide permissions to player. /land invites to see invites. /land rename to rename.
+### Context
 
 There are three terminologies to know.
 
@@ -90,8 +82,38 @@ area to allow certain blocks, but make the default disallow everything else to t
 For those that do not have a land or want to create a new one, you can create a land by doing `/land create`. This
 creates a brand new "land" and may claim the chunk you are on.
 
-You can expand the land by using `/land selection` or a golden shovel. To edit an existing land, you will need to do
-`/land edit {YOUR_LAND_HERE}`. Once you made a selection, you can do `/land selection assign {YOUR_LAND_HERE}`.
+### Commands
+
+- `/land claim` to claim chunk
+- `/land unclaim` to unclaim chunk
+- `/land selection` to select area.
+- `/land menu` to open up menu to see all claims. You can click on an option to further edit it.
+- `/land map` to see chunks claimed around you.
+- `/land trust` or `/lands untrust` to provide permissions to player.
+- `/land invites` to see invites.
+- `/land rename` to rename.
+- You can expand the land by using `/land selection` or a golden shovel. To edit an existing land, you will need to do
+  `/land edit {YOUR_LAND_HERE}`. Once you made a selection, you can do `/land selection assign {YOUR_LAND_HERE}`.
+
+### More Info
+
+- **Wiki**: https://github.com/Angeschossen/Lands/wiki
+- **Plugin**:
+  https://www.spigotmc.org/resources/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-16-support.53313/
+
+### Update Roles
+
+You can update the permissions for roles within the land and/or area.
+
+- `/land edit {YOUR_LAND_HERE}` OR `/lands menu` -> Select land
+- Go to `roles`.
+- Click the target role.
+- Add or deny any permissions for that role.
+
+Roles, at the lands level, applies to the primary lands area and any newly created areas. However, existing areas within
+a "land" won't get updated. You'll need to update those manually.
+
+### Protect specific areas
 
 You can protect areas in the nether (like on the nether roof) and other areas, with minimal impact to other players now.
 
