@@ -1,21 +1,21 @@
-<img src="./assets/1.png"/>
-<img src="./assets/2.png"/>
-<img src="./assets/3.png"/>
-<img src="./assets/4.png"/>
-<img src="./assets/5.png"/>
-<img src="./assets/6.png"/>
-<img src="./assets/7.png"/>
-<img src="./assets/8.png"/>
-<img src="./assets/9.png"/>
-<img src="./assets/10.png"/>
-<img src="./assets/11.png"/>
-<img src="./assets/12.png"/>
-<img src="./assets/13.png"/>
-<img src="./assets/14.png"/>
-<img src="./assets/15.png"/>
-<img src="./assets/16.png"/>
-<img src="./assets/17.png"/>
-<img src="./assets/18.png"/>
-<img src="./assets/19.png"/>
-<img src="./assets/20.png"/>
-<img src="./assets/21.png"/>
+<img loading="lazy" src="./assets/1.png"/>
+<img loading="lazy" src="./assets/2.png"/>
+<img loading="lazy" src="./assets/3.png"/>
+<img loading="lazy" src="./assets/4.png"/>
+<img loading="lazy" src="./assets/5.png"/>
+<img loading="lazy" src="./assets/6.png"/>
+<img loading="lazy" src="./assets/7.png"/>
+<img loading="lazy" src="./assets/8.png"/>
+<img loading="lazy" src="./assets/9.png"/>
+<img loading="lazy" src="./assets/10.png"/>
+<img loading="lazy" src="./assets/11.png"/>
+<img loading="lazy" src="./assets/12.png"/>
+<img loading="lazy" src="./assets/13.png"/>
+<img loading="lazy" src="./assets/14.png"/>
+<img loading="lazy" src="./assets/15.png"/>
+<img loading="lazy" src="./assets/16.png"/>
+<img loading="lazy" src="./assets/17.png"/>
+<img loading="lazy" src="./assets/18.png"/>
+<img loading="lazy" src="./assets/19.png"/>
+<img loading="lazy" src="./assets/20.png"/>
+<img loading="lazy" src="./assets/21.png"/>
