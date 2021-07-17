@@ -3,6 +3,9 @@
 We host a few servers for the community! Our primary being the survival world and occassionally, we'll bring up
 additional game servers to play other games together.
 
+**Note**: We use Bluemap as our choice of mapping technology for minecraft servers. If you notice any slowness, consider
+enabling hardware acceleration for that browser.
+
 # Survival
 
 1. This world was opened on 06/20/2020 for **1.16**.
