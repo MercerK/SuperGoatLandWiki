@@ -28,7 +28,7 @@ from the very beginning.
 We host a fair share of community events, based on community interest, such as build contents, races, PvP events,
 treasure hunts, and so much more.
 
-Feel free to check out our dynmap, https://map.supergoat.land.
+Feel free to check out our bluemap, https://map.supergoat.land.
 
 To join, we ask that you fill out the application below on our Discord (https://discord.gg/supergoatland). Tell us about
 yourself and why you think you’ll be a good fit. Applications can take up to 24 hours to process, so please be patient.

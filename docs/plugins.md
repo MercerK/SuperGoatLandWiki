@@ -53,11 +53,19 @@ When you die, your items go into a chest!
 
 Provides a bunch of helper capabilities.
 
+### Trade Signs
+
+You can use essential signs for trading.
+
+<img src="/assets/essentials/tradesign.png">
+
 ### More Info
 
 - You can set home and teleport to a home. You can only have one home.
   - `/sethome`: sets home
   - `/home`: teleports home
+- `/spawn`: teleports to spawn
+- Wiki: https://wiki.mc-ess.net/wiki
 
 ## Lands
 
@@ -84,7 +92,10 @@ creates a brand new "land" and may claim the chunk you are on.
 
 ### Commands
 
-- `/land claim` to claim chunk
+- `/land create` to create a new container.
+- `/land edit` to select a container to edit.
+- `/land edit here` to select the container you are currently standing in.
+- `/land claim` to claim chunk; this will be added to the current container selected.
 - `/land unclaim` to unclaim chunk
 - `/land selection` to select area.
 - `/land menu` to open up menu to see all claims. You can click on an option to further edit it.
@@ -94,6 +105,7 @@ creates a brand new "land" and may claim the chunk you are on.
 - `/land rename` to rename.
 - You can expand the land by using `/land selection` or a golden shovel. To edit an existing land, you will need to do
   `/land edit {YOUR_LAND_HERE}`. Once you made a selection, you can do `/land selection assign {YOUR_LAND_HERE}`.
+- `/wild` teleports to wild.
 
 ### More Info
 
