@@ -15,7 +15,7 @@ additional game servers to play other games together.
 # Creative
 
 - **URL:** creative.supergoat.land
-- **Map:** None
+- **[Map](servers/creativemap.md):** https://creative.map.supergoat.land
 
 # Hermitcraft 7 (Temporarily)
 
