@@ -1,4 +1,6 @@
 <img loading="lazy" src="./assets/helping-mondays.png"/>
+<img loading="lazy" src="./assets/goats-in-a-pond.png"/>
+<img loading="lazy" src="./assets/oygun-wheat-fields.png"/>
 <img loading="lazy" src="./assets/1.png"/>
 <img loading="lazy" src="./assets/2.png"/>
 <img loading="lazy" src="./assets/3.png"/>
