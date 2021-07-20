@@ -1,3 +1,4 @@
+<img loading="lazy" src="./assets/helping-mondays.png"/>
 <img loading="lazy" src="./assets/1.png"/>
 <img loading="lazy" src="./assets/2.png"/>
 <img loading="lazy" src="./assets/3.png"/>
