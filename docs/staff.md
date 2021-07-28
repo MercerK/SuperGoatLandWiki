@@ -1,9 +1,11 @@
 # Staff
 
-## "Goat Guide" Helper Responsibilities:
+## "Goat Guide" Helper
 
 The "Goat Guide" Helpers are folks who have been part of the community for a decent amount of time and can help answer
 questions others have.
+
+**Responsibilities**
 
 - Welcome players and point them out in the right direction if they have questions.
 - Understand server plugins.
@@ -14,9 +16,11 @@ questions others have.
 - Spend at least 30 hours a month within the community.
 - Have limited increased privileges.
 
-## "Mountain Goat" Moderator Responsibilities:
+## "Mountain Goat" Moderator
 
 The "Mountain Goat" Moderators will only be selected from staff who have already been a "Goat Guide" Helper.
+
+**Responsibilities**
 
 - Be able to solve problems.
 - Know the ins and outs of the server plugins (or be able to research to get answers).
@@ -36,6 +40,6 @@ on at least one team. To start with, the teams will be:
 - Special Events
 - Non-Minecraft Games
 
-# "G.O.A.T" Admin
+## "G.O.A.T" Admin
 
 TBD
