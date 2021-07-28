@@ -3,6 +3,7 @@
 - [Media](media.md)
 - [Events](events.md)
 - [Plugins](plugins.md)
+- [Staff](staff.md)
 - [Incentives](incentives.md)
 - [Servers](servers.md)
   - [Survival](servers/survival.md)
