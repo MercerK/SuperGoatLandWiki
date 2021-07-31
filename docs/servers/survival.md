@@ -65,6 +65,12 @@ corrupt your item giving it a chance to improve it or make it worse. Maybe you c
 
 - **Note**: Recipe is waiting on plugin update
 
+# Prevent-Mine Command
+
+With 1.17, they introduced Budding Amethyst. These blocks cannot be silk touched and you can accidentally destroy them,
+which feels bad. However, using `/prevent-mine BUDDING_AMETHYST`, you can prevent yourself from mining those blocks for
+the next 5 minutes. This can be used for all sorts of blocks.
+
 # PvP Mechanic
 
 We are a PvE first server, with PvP on a consent basis. However, we know players do enjoy the regular PvP as well as
