@@ -55,15 +55,17 @@ corrupt your item giving it a chance to improve it or make it worse. Maybe you c
 
 ## Cobwebs
 
-- **Note**: Recipe is waiting on plugin update
+- 9 string to 1 cobweb.
 
 ## Diamond Shards
 
-- **Note**: Recipe is waiting on plugin update
+- 1 diamond to 9 diamond shards.
+- Diamond shards are used for trading with other players.
 
 ## Slabs to Blocks
 
-- **Note**: Recipe is waiting on plugin update
+- 2 slabs to 1 block.
+- **Note:** The stone_brick_slab to chisel_stone_brick has been removed. However, you can still use the stonecutter.
 
 # Prevent-Mine Command
 
