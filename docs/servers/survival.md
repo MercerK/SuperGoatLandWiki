@@ -64,3 +64,24 @@ corrupt your item giving it a chance to improve it or make it worse. Maybe you c
 ## Slabs to Blocks
 
 - **Note**: Recipe is waiting on plugin update
+
+# PvP Mechanic
+
+We are a PvE first server, with PvP on a consent basis. However, we know players do enjoy the regular PvP as well as
+head drops.
+
+If you wish to engage with PvP with others (such as similar to PvP servers), you can toggle `/pvp`. You will then be
+flagged for PvP, which will display next to your name. Players that have the `/pvp` flag enabled will drop their head
+upon death.
+
+Non-PvP-Flagged players can engage in combat with other PvP players, however they will automatically be flagged as a
+result. If they die, they will drop their head.
+
+However, to prevent abuse, there is a 30 minute cooldown associated to disabling the PvP flag (once enabled) and it
+automatically refreshes when you attack a player.
+
+# Zombie Flesh Mechanic
+
+Eating zombie flesh can be a bit boring, so we decided to spice it up! When there are multiple players on, you can eat a
+raw piece of zombie and there may be a chance that it'll trigger a random event. That event may reward or punish a
+random player on the server.
