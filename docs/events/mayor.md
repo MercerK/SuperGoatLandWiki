@@ -20,7 +20,7 @@ don't want to have to step in if it gets out of hand. This should be fun... not 
 
 Tell Goat Land what you'd do as Mayor. Tell us why we should pick you. Have fun and be creative!
 
-Our election season last's a month. You may campaign between now and August 31st. On September 1st, Merc and SPF will
+Our election season will last a month. You may campaign between now and August 31st. On September 1st, Merc and SPF will
 count the votes. How do you vote? Simply place a sign on a mailbox in the Town Hall (there are signs directing you to
 the mail room inside) to claim a mailbox. You'll be putting your vote in your mailbox in a couple of weeks. We'll let
 you know when you can vote and what you need to do to vote soon.
