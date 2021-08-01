@@ -2,6 +2,7 @@
 - [Rules](rules.md)
 - [Media](media.md)
 - [Events](events.md)
+  - [Mayor](events/mayor.md)
 - [Plugins](plugins.md)
 - [Staff](staff.md)
 - [Incentives](incentives.md)
