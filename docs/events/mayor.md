@@ -45,4 +45,4 @@ Until one of the following occurs:
 
 - End of Season 1
 - Mayor steps down (or decides to host another election)
-- Mayor is banned
+- Mayor leaves the community
