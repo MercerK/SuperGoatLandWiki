@@ -17,33 +17,33 @@
 
 - **Note**: Item is waiting on plugin update
 
-## Ender Scroll: Weak
+## <img src="/assets/items/weak_ender_scroll_item.png" /> Ender Scroll: Weak 
 
-<img src="/assets/items/weak-ender-scroll.png" />
+<img src="/assets/items/weak_ender_scroll_tooltip.png" />
 
 One time use teleportation scroll. May be a recipe item.
 
 **Note**: Mob drop only.
 
-## Ender Scroll
+## <img src="/assets/items/ender_scroll_item.png" /> Ender Scroll 
 
-<img src="/assets/items/ender-scroll.png" />
+<img src="/assets/items/ender_scroll_tooltip.png" />
 
 **Note**: Recipe unknown.
 
-## Invisible Item Frame
+## Invisible Item Frame 
 
-<img src="/assets/items/invisible-item-frame-recipe.png" />
+<img src="/assets/items/invisible_item_frame_recipe.png" />
 
 An item frame that is invisible. This uses a lingering invisibility potion.
 
 See below for result.
 
-<img src="/assets/items/invisible-item-frame-result.png" />
+<img src="/assets/items/invisible_item_frame_result.png" />
 
-## Vaal Orb
+## <img src="/assets/items/vaal_orb_item.png" /> Vaal Orb 
 
-<img src="/assets/items/vaal-orb.png" />
+<img src="/assets/items/vaal_orb_tooltip.png" />
 
 Imagine an item from Path of Exile called Vaal Orb and introduce it into Minecraft. What would this item do? Well, it'll
 corrupt your item giving it a chance to improve it or make it worse. Maybe you can get an efficiency 6 or 7 item...
@@ -57,7 +57,9 @@ corrupt your item giving it a chance to improve it or make it worse. Maybe you c
 
 - 9 string to 1 cobweb.
 
-## Diamond Shards
+## <img src="/assets/items/diamond_shard_item.png" /> Diamond Shards 
+
+<img src="/assets/items/diamond_shard_tooltip.png" />
 
 - 1 diamond to 9 diamond shards.
 - Diamond shards are used for trading with other players.
