@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MercerK/SuperGoatLandWiki/issues"
   },
-  "homepage": "https://github.com/MercerK/SuperGoatLandWiki#readme"
+  "homepage": "https://github.com/MercerK/SuperGoatLandWiki#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
 }
