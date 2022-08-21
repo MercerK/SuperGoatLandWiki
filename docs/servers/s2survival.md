@@ -15,17 +15,17 @@
 
 ## Costumes
 
-TBD
+This item is available to buy in the market district!
 
-## Invisible Item Frame
+## Invisible Item Frame 
 
-<img src="/assets/items/invisible-item-frame-recipe.png" />
+<img src="/assets/items/invisible_item_frame_recipe.png" />
 
 An item frame that is invisible. This uses a lingering invisibility potion.
 
 See below for result.
 
-<img src="/assets/items/invisible-item-frame-result.png" />
+<img src="/assets/items/invisible_item_frame_result.png" />
 
 # Custom Recipes
 
