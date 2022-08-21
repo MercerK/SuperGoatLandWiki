@@ -5,12 +5,13 @@ to be aware of:
 
 - Blocklocker. Allows the player to protect chests/doors with a sign.
 - Death Chests. When you die, your items go into a death chest. This is locked to you and no one else.
-- Dynmap. A web interface of the currently explored world: https://map.supergoat.land.
+- Bluemap. A web interface of the currently explored world: https://map.supergoat.land.
 - Essentials. Provides 1 home. This is the only source of command teleportation.
 - Lands. Players can claim their land. This is completely optional, as our community does not grief/steal.
 - Harbor. A balanced mechanism to support multiple players sleeping, instead of the entire server.
-- Mythical Trinkets. Custom items.
 - Portals. Allows us to setup waypoints between fixed locations.
+
+**Please note**: We don't keep this page updated with the latest features from certain plugins. If you wish to learn more about a plugin, we recommend you check out their documentation. 
 
 ## Advanced Armor Stands
 
@@ -21,17 +22,6 @@ Stand next to an armor stand and type `/aa` into chat to open up the advanced ar
 ### More Info
 
 - **Plugin**: https://www.spigotmc.org/resources/advanced-armor-stands.38513/
-
-## Autorank
-
-### Description
-
-Our rank plugin!
-
-### More Info
-
-- `/ar check` provides your playtime & current progress
-- `/ar leaderboard` shows top 5
 
 ## Deathchests
 

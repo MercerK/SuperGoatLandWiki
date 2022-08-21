@@ -6,23 +6,25 @@ additional game servers to play other games together.
 **Note**: We use Bluemap as our choice of mapping technology for minecraft servers. If you notice any slowness, consider
 enabling hardware acceleration for that browser.
 
-# Survival
+
+# S2 Survival
+
+1. This world is currently on 1.19.
+
+
+- **URL:** mc.supergoat.land
+- **Map:** https://map.supergoat.land
+
+# S1 Survival
 
 1. This world was opened on 06/20/2020 for **1.16**.
 2. It was migrated over to **1.17** on 07/03/2021.
-3. For our 1.18 plans, check out our [1.18 planning document](servers/1.18.md).
 
-- **URL:** mc.supergoat.land
-- **[Map](servers/survivalmap.md):** https://map.supergoat.land
+
+- **URL:** s1.supergoat.land
+- **Map:** https://s1.map.supergoat.land
 
 # Creative
 
 - **URL:** creative.supergoat.land
 - **[Map](servers/creativemap.md):** https://creative.map.supergoat.land
-
-# Hermitcraft 7 (Temporarily)
-
-This server was spun up to provide a server for players to explore the Hermitcraft Season 7 world.
-
-- **URL:** hc7.supergoat.land
-- **[Map](servers/hc7map.md):** https://hc7.map.supergoat.land
