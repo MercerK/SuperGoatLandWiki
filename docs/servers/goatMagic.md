@@ -24,30 +24,17 @@ You'll need to find a goat named `Jeff`. Jeff has a low chance of spawning with 
 
 This item does nothing by itself, however, it is used as an ingredient for other items.
 
+* **Note**: This item doesn't do much at the moment due to a last minute change, however, it will be used for something interesting specifically for 1.19. 
+
 ## Crafting
 
 <img src="/assets/items/magical-goat-horn-crafting.png" />
 
 You'll need 8 essences (not emeralds) with one goat horn. Surround the goat horn with the essence and you'll get a magical goat horn.
 
-# Goat-Infused Pickaxe
-
-A goat-infused pickaxe is a special tool, merged with the essence of the Goat. When mining with said tool, it has the ability to absorb certain materials to produce essence. 
-
-However, you may need to be careful when mining. Generating too much essence can have consequences!
-
-## Crafting
-
-<img src="/assets/items/goat-infused-pickaxe-crafting.png" />
-
-You'll need one magical goat horn with a netherite pickaxe. Merge the two in a crafting table and you'll get a Goat Infused Pickaxe.
-
-* **Note**: Other tools currently do not work.
-* **Note**: This will **NOT** bring over any enchantments. 
-
 # Essence
 
-This is an item that can only drop when using Goat-Infused tools. 
+This item has a random chance of dropping.
 
 ## Consumable
 
@@ -64,7 +51,9 @@ This is a single tool that allows you to select and cast spells.
 
 <img src="/assets/items/spellbook-crafting.png" />
 
-You'll need 6 essence, 2 magical goat horns, and 1 book. This will give you a spellbook.
+You'll need 8 essence and 1 book. This will give you a spellbook.
+
+* **Note**: This will change in the future.
 
 ## Controls
 
