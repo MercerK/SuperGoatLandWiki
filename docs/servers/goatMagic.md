@@ -6,7 +6,7 @@ This feature is still in development, however, we will be releasing a beta versi
 
 As it is in beta, there will be bugs and potentially major changes to this custom content. For example, we will be releasing tools to make building easier, which currently generate instant results. However, as we work on the feature more, we will begin to slow down how the building mechanic works, which will result in slower build times. Certain spells may be added or purged over time, depending on their state.
 
-As new features are worked on, we may see it replace existing custom capabilities either in this MC Version or in the next major version. For example, we use commands to teleport home/spawn, and so forth. Eventually, these may be replaced by spells that perform the same functionality and add additional immersion.
+As new features are worked on, we may see it replace existing custom capabilities either in this MC Version or in the next major version. For example, we use commands to teleport home/spawn, and so forth. Eventually, these may be replaced by spells that perform the same functionality and add additional immersion. Having item-variants of commands was always an objective of mine, however, it is difficult to provide a command initially then replace it with an item, as players tend to get upset about this change. I'm hoping that this feature can be made available at the start of the season, versus later on.
 
 Another aspect is documentation. We don't want to rely on a website for documentation, as we want to provide that in game. However, that has proven to be challenging and even time consuming. Overtime, we will aim to slowly bridge the gap. 
 
@@ -22,15 +22,16 @@ You'll need to find a goat named `Jeff`. Jeff has a low chance of spawning with 
 
 # Magical Goat Horn
 
-This item does nothing by itself, however, it is used as an ingredient for other items.
-
-* **Note**: This item doesn't do much at the moment due to a last minute change, however, it will be used for something interesting specifically for 1.19. 
-
+This item does nothing by itself, however, it can be used to open up a portal.
 ## Crafting
 
 <img src="/assets/items/magical-goat-horn-crafting.png" />
 
-You'll need 8 essences (not emeralds) with one goat horn. Surround the goat horn with the essence and you'll get a magical goat horn.
+You'll need 8 essences with one goat horn. Surround the goat horn with the essence and you'll get a magical goat horn.
+
+## Uses
+
+You know the Ancient City that was released in 1.19 and there is a structure that looks like a portal. This item may just open up a portal.
 
 # Essence
 
@@ -63,7 +64,7 @@ You'll need 8 essence and 1 book. This will give you a spellbook.
 
 ## Spells
 
-TBD
+There are currently 20 spells.
 
 ## Building Spells
 
@@ -129,3 +130,20 @@ To select a rollback:
 During your travels, you may encounter an 'Unidentified scroll'. When it is unidentified, you can "right click" to identify it. However, this will only work when you discover magic (by crafting a spellbook).
 
 Once you identify a spell, you have the option of learning it (by right clicking again) or giving it away. 
+
+## Mirror Dimension
+
+The mirror dimension is a new, experimental world. This isn't your average world.
+
+* Resets daily with a different seed.
+* Infinitely monster scaling. Mobs will get harder, so fully enchanted armor will only last you so far. 
+* New Loot
+  * Majority of the new items being released will be done via the Mirror Dimension. 
+* Always night time. There may be a way to set it to day though...
+* Sleeping and flying are not recommended... You are welcome to try. Heh. 
+* You cannot /sethome.
+* If you die in the world, you won't be punished for it. You'll spawn at your bed (or spawn) with your stuff. However, you will be locked out for a period of time.
+* Currently the world is heavily focused on Player vs Mobs. At the same time, we know that it isn't for everyone. We may introduce other methods within this world. 
+
+This feature is still in development, so expect more content in the future. Having it reset daily gives us more opportunity to be more creative in what we can do here and it does allow content/loot to reset. 
+
